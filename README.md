@@ -1,6 +1,6 @@
 # Kodluyoruz ilk repo
-##Testing Markdown
+## Testing Markdown
 
-###Image testing
+### Image testing
 
 ![Proje Resim](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpnFx1cXAldTVJSk_M6MwKPRZAyZkxcmDMg&s)
